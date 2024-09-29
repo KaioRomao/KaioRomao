@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>- 🔭 I’m currently working on Infotera Tecnologia<br>📚 I'm currently learning Quarkus<br>🎯 Goals: Mastering backend development using Java</p>
+<p align="left">✨ Creating bugs since 2023<br> 🔭 I’m currently working on Infotera Tecnologia<br>📚 I'm currently learning Quarkus<br>🎯 Goals: Mastering backend development using Java</p>
 
 ###
 
